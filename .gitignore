@@ -4,3 +4,4 @@ __pycache__/
 db.sqlite3
 media/temp_img/
 media/users/
+car_social_network/emailsettings.py 
